@@ -40,6 +40,10 @@
   height: 100%;
 }
 
+#doodle__canvas:active {
+  cursor: none;
+}
+
 #cta {
   height: 30px;
   line-height: 30px;
